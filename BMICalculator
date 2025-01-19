@@ -1,0 +1,11 @@
+cd C:\Users\semen\PycharmProjects\BMICalculator
+git init
+git remote add origin https://github.com/Tesak005/bmi_calculator.git
+git remote -v
+origin  https://github.com/Tesak005/bmi_calculator.git (fetch)
+origin  https://github.com/Tesak005/bmi_calculator.git (push)
+git add 
+git status
+git commit -m "Initial commit - BMI Calculator"
+git branch -M main
+git push -u origin main
